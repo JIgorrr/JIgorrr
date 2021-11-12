@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JIgorrr
 - 👀 I’m interested in Programação
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning  C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
